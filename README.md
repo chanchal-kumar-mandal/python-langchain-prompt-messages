@@ -11,7 +11,8 @@ A clean, modular Python starter project demonstrating how to manage chat context
 
 ## Demo
 
-
+<img width="1480" height="817" alt="Langchain_Prompt_Messages" src="https://github.com/user-attachments/assets/d2ef3edb-5ec3-485a-a2aa-37c46f7e9de0" />
+<img width="1481" height="820" alt="Langchain_Dynamic_Prompt_Messages" src="https://github.com/user-attachments/assets/89603415-ef76-494c-931b-a7179eec9b48" />
 
 ## 🛠️ Tech Stack & Dependencies
 
